@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95.44" height="65.779" viewBox="0 0 95.44 65.779">
+  <g id="resp_ico" data-name="resp ico" transform="translate(0.5)">
+    <g id="device_3" data-name="device 3" transform="translate(24.466 0)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="70.473" height="52.855" rx="4" fill="#fcbf49"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="63.242" height="38.011" rx="3" transform="translate(3.541 3.074)" fill="#fff"/>
+      <path id="Path_13" data-name="Path 13" d="M449.712,347.056c-7.536,0-7.128-4.194-7.128-9.368v-9.2h-8.36v9.2c0,5.174-.154,9.368-7.129,9.368h-4.086v1.664H453.8v-1.664Z" transform="translate(-403.241 -283.87)" fill="#fcbf49"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="2.354" cy="2.354" r="2.354" transform="translate(32.808 44.615)" fill="#fff"/>
+    </g>
+    <g id="device_2" data-name="device 2" transform="translate(7.969 16.927)">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="36.264" height="48.352" rx="3" fill="#fcbf49" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="30.516" height="37.67" transform="translate(3.034 4.599)" fill="#fff"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="1.257" cy="1.257" r="1.257" transform="translate(16.875 44.265)" fill="#fff"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="0.628" cy="0.628" r="0.628" transform="translate(17.664 1.384)" fill="#fff"/>
+    </g>
+    <g id="device_1" data-name="device 1" transform="translate(0 35.095)">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="16.743" height="29.765" rx="2" fill="#fcbf49" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="12.83" height="21.634" transform="translate(1.947 4.128)" fill="#fff"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="0.939" cy="0.939" r="0.939" transform="translate(7.422 26.855)" fill="#fff"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="5.746" height="0.46" rx="0.23" transform="translate(5.74 1.943)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

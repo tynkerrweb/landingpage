@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="268.295" height="135" viewBox="0 0 268.295 135">
+  <g id="How_heading" data-name="How heading" transform="translate(-186.205 -1012.76)">
+    <text id="How_" data-name="How?" transform="translate(195.5 1012.76)" fill="#4f46e5" font-size="100" font-family="Lora" font-weight="600" font-style="italic"><tspan x="1.95" y="101">How?</tspan></text>
+    <g id="Less_than_sign" data-name="Less than sign" transform="translate(188.327 1040.173)">
+      <line id="Line_5" data-name="Line 5" y1="7.173" x2="7.173" fill="none" stroke="#6366f1" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_6" data-name="Line 6" x2="7.173" y2="7.173" transform="translate(0 7.173)" fill="none" stroke="#6366f1" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Greater_than_sign" data-name="Greater than sign" transform="translate(284.549 1040.173)">
+      <line id="Line_7" data-name="Line 7" y1="7.173" x2="7.173" transform="translate(7.173 14.347) rotate(180)" fill="none" stroke="#6366f1" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_8" data-name="Line 8" x2="7.173" y2="7.173" transform="translate(7.173 7.173) rotate(180)" fill="none" stroke="#6366f1" stroke-linecap="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

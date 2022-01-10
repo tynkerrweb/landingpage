@@ -1,0 +1,24 @@
+{
+  "navItems": [
+    {
+      "title": "How?",
+      "id": "how"
+    },
+    {
+      "title": "Get In Touch!",
+      "id": "getintouch"
+    },
+    {
+      "title": "Web Portfolio",
+      "id": "portfolio"
+    },
+    {
+      "title": "Testimonials",
+      "id": "testimonial"
+    },
+    {
+      "title": "Contact",
+      "id": "footer"
+    }
+  ]
+}

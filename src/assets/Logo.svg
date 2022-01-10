@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224.5" height="71.97" viewBox="0 0 224.5 71.97">
+  <g id="Logo" transform="translate(1.5 0.485)">
+    <g id="Group_2" data-name="Group 2" transform="translate(0 14.19)">
+      <path id="Path_1" data-name="Path 1" d="M270.762,487.712a1.93,1.93,0,0,0-1.976,1.883,1.956,1.956,0,0,0,.026.367l5.06,37a1.933,1.933,0,0,0,1,1.44l15.58,8.56,15.41-8.64a1.909,1.909,0,0,0,1-1.41l5.37-37a1.93,1.93,0,0,0-1.629-2.19,2.036,2.036,0,0,0-.281-.02Z" transform="translate(-268.785 -487.702)" fill="rgba(0,0,0,0)" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_2" data-name="Path 2" d="M283.892,501.692l-7,6.93a.64.64,0,0,0-.015.9l.015.015,7,6.82" transform="translate(-268.785 -487.702)" fill="rgba(0,0,0,0)" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_3" data-name="Path 3" d="M297.092,501.752l7,6.92a.649.649,0,0,1,0,.919h0l-7,6.83" transform="translate(-268.785 -487.702)" fill="rgba(0,0,0,0)" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_1" data-name="Line 1" x1="7.9" y2="21.69" transform="translate(17.757 10.52)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <line id="Line_2" data-name="Line 2" y2="71" transform="translate(57.179)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.97"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(66 8.12)" style="isolation: isolate">
+      <text id="Tynkerr" transform="translate(0 44)" fill="#fff" font-size="50" font-family="CabinSketch-Bold, Cabin Sketch" font-weight="700" letter-spacing="-0.04em" style="isolation: isolate"><tspan x="0" y="0">Tynkerr</tspan></text>
+    </g>
+  </g>
+</svg>
